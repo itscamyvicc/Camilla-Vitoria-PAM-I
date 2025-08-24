@@ -2,10 +2,9 @@
 
 **Aulas de Programação Mobile 1** - Professor João Siles, ETEC Camargo Aranha
 
- - bla bla bla ble ble blu blu blu
- fala baixo, nengue, tá maluco...
+ - Link do app no FlutterFlow: https://app.flutterflow.io/project/teste-bvg1ht
  
 |Produto  | Preço |
 |--|--|
-| Makoto Yuki plusie | $9999 |
+| Makoto Yuki plushie | $9999 |
 
