@@ -1,2 +1,19 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+echo OFF
+
+echo --- Retirando Usuario GitHub ---
+
+git config --global --unset-all user.mail
+git config --global --unset-all user.name
+
+echo --- Configurando Usuario GitHub ---
+
+git config --global user.name "Camilla Vitoria"
+git config --global user.email camillav09@gmail.com
+
+echo --- Mostrando a configuração atual do Github no computador ---
+
+git config --list
+
+echo --- Fim ---
+
+pause
