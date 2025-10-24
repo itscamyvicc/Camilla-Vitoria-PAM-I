@@ -1,2 +1,17 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+echo OFF
+
+echo --- Preparar aquivos para subir ---
+
+git add .
+
+echo --- Mensagem para Deus ---
+
+git commit -m "Arquivos utilizados ou alterados em aula."
+
+echo --- Enviar para nuvem ---
+
+git push
+
+echo --- Fim ---
+
+pause
